@@ -13,6 +13,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [mcp2tcp](https://github.com/mcp2everything/mcp2tcp) - Conenct TCP device to LLMs via MCP protocol.
 - [mcp2serial](https://github.com/mcp2everything/mcp2serial) - A open-source library enabling AI models to control hardware devices via serial communication using the MCP protocol. Initial support for Raspberry Pi Pico.
 - [mcp2mqtt](https://github.com/mcp2everything/mcp2mqtt) - mcp2mqtt is a serial communication server based on the MCP service interface protocol, designed for communication with serial devices.
+- [xds110_mcp_server](https://github.com/shanemmattner/xds110_mcp_server) - Generic Debugging Interface for ANY Texas Instruments CCS Project.
 
 ## Clients
 
