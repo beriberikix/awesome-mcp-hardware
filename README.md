@@ -15,6 +15,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [mcp2mqtt](https://github.com/mcp2everything/mcp2mqtt) - mcp2mqtt is a serial communication server based on the MCP service interface protocol, designed for communication with serial devices.
 - [xds110_mcp_server](https://github.com/shanemmattner/xds110_mcp_server) - Generic Debugging Interface for ANY Texas Instruments CCS Project.
 - [kicad-sch-api](https://github.com/circuit-synth/kicad-sch-api) - Python library for reading and writing KiCAD schematic files.
+- [IoT-Edge-MCP-Server](https://github.com/llm-use/IoT-Edge-MCP-Server) - MCP server for Industrial IoT, SCADA and PLC systems.
 
 ## Clients
 
