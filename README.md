@@ -17,6 +17,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [kicad-sch-api](https://github.com/circuit-synth/kicad-sch-api) - Python library for reading and writing KiCAD schematic files.
 - [IoT-Edge-MCP-Server](https://github.com/llm-use/IoT-Edge-MCP-Server) - MCP server for Industrial IoT, SCADA and PLC systems.
 - [clangd-graph-rag](https://github.com/2015xli/clangd-graph-rag) - Source code graph RAG (GraphRAG) for C/C++ software.
+- [sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp) - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, and absolute max ratings extracted from manufacturer PDFs on demand.
 
 ## Clients
 
