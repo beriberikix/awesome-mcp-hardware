@@ -18,6 +18,8 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [IoT-Edge-MCP-Server](https://github.com/llm-use/IoT-Edge-MCP-Server) - MCP server for Industrial IoT, SCADA and PLC systems.
 - [clangd-graph-rag](https://github.com/2015xli/clangd-graph-rag) - Source code graph RAG (GraphRAG) for C/C++ software.
 - [sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp) - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, and absolute max ratings extracted from manufacturer PDFs on demand.
+- [scope-mcp](https://github.com/Netlist-Studio/scope-mcp) - An MCP server for controlling a Keysight/Agilent oscilloscope over Ethernet from Claude Code ([video](https://youtu.be/9oMwjWW3wsg?si=dA5nZt-vqYsQWq16).)
+- [stm32-mcp](https://github.com/shieldyguy/stm32-mcp) - Build, flash, and communicate with STM32 hardware over SWD and serial.
 
 ## Clients
 
