@@ -24,6 +24,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [saleae-logic2-mcp](https://github.com/hsoffar/saleae-logic2-mcp) - This project brings Saleae Logic 2 into AI-assisted embedded debugging.
 - [modbus-mcp](https://github.com/kukapay/modbus-mcp) - An MCP server that standardizes and contextualizes Modbus data, enabling seamless integration of AI agents with industrial IoT systems.
 - [opcua-mcp](https://github.com/kukapay/opcua-mcp) - An MCP server that connects to OPC UA-enabled industrial systems, allowing AI agents to monitor, analyze, and control operational data in real time.
+- [mcp-micropython-bridge](https://github.com/SWITCHSCIENCE/mcp-micropython-bridge) - (Japanese) MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial.
 
 ## Clients
 
