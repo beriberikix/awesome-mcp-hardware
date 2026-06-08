@@ -27,6 +27,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [mcp-micropython-bridge](https://github.com/SWITCHSCIENCE/mcp-micropython-bridge) - (Japanese) MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial.
 - [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity and autonomy score before authorizing x402 micropayments when agents interact with hardware APIs. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Clients
 
 - [robot-mcp-client](https://github.com/robotmcp/robot-mcp-client) - Connect AI models like Claude & GPT with robots using MCP and ROS.
