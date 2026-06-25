@@ -26,6 +26,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [opcua-mcp](https://github.com/kukapay/opcua-mcp) - An MCP server that connects to OPC UA-enabled industrial systems, allowing AI agents to monitor, analyze, and control operational data in real time.
 - [mcp-micropython-bridge](https://github.com/SWITCHSCIENCE/mcp-micropython-bridge) - (Japanese) MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial.
 - [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
+- [Seeed AI Skills](https://github.com/Seeed-Studio/ai-skills) - AI skills for electronic-component datasheet extraction (with page citations, structured JSON) and KiCad/OrCAD/Allegro schematic analysis; the schematic-analyzer skill integrates with the pcbparts MCP for schematic-to-datasheet workflows.
 
 ## Clients
 
