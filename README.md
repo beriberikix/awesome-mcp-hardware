@@ -26,6 +26,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [opcua-mcp](https://github.com/kukapay/opcua-mcp) - An MCP server that connects to OPC UA-enabled industrial systems, allowing AI agents to monitor, analyze, and control operational data in real time.
 - [mcp-micropython-bridge](https://github.com/SWITCHSCIENCE/mcp-micropython-bridge) - (Japanese) MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial.
 - [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
+- [android-agent](https://github.com/ghost-in-the-droid/android-agent) - Python MCP server providing 62 tools for physical Android and iOS device control via ADB and WebDriverAgent: tap, swipe, screenshot, UI accessibility tree, app launch, ADB shell, on-device inference, and Docker+KVM emulator pools.
 
 ## Clients
 
