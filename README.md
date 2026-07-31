@@ -26,6 +26,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [opcua-mcp](https://github.com/kukapay/opcua-mcp) - An MCP server that connects to OPC UA-enabled industrial systems, allowing AI agents to monitor, analyze, and control operational data in real time.
 - [mcp-micropython-bridge](https://github.com/SWITCHSCIENCE/mcp-micropython-bridge) - (Japanese) MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial.
 - [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
+- [a2a2p](https://github.com/Deadlypillow/a2a2p) - Turns agent intent into manufacturable parts. Describe what must be true about the world ("holds 15kg, outdoors, ten years") and get a deterministic engineering review — material properties, process/tolerance compatibility, environment fit, quantity economics — plus pricing and lead time. Measures attached STL meshes for true volume and bounding box. Where the servers above *control* hardware, this one *sources and fabricates* it. Open protocol (CC0 spec), MCP + REST, no API key.
 
 ## Clients
 
