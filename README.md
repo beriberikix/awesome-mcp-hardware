@@ -26,6 +26,7 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [opcua-mcp](https://github.com/kukapay/opcua-mcp) - An MCP server that connects to OPC UA-enabled industrial systems, allowing AI agents to monitor, analyze, and control operational data in real time.
 - [mcp-micropython-bridge](https://github.com/SWITCHSCIENCE/mcp-micropython-bridge) - (Japanese) MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial.
 - [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
+- [RoboParts](https://github.com/lm203688/roboparts) - Vendor-neutral robot hardware compatibility checker: 868 entities, three-state verdicts (yes/no/don't-know), ISO 9409-1 flange anchor, printable 3D adapters. Remote MCP `https://roboparts.cc/mcp` · stdio via Docker.
 
 ## Clients
 
