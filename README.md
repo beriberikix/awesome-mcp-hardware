@@ -27,6 +27,8 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [mcp-micropython-bridge](https://github.com/SWITCHSCIENCE/mcp-micropython-bridge) - (Japanese) MCP bridge server for MicroPython (ESP32, RP2040, etc.) via USB serial.
 - [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) - A Model Context Protocol (MCP) server that enables users to generate 3D models from text descriptions or images, with a focus on creating parametric 3D models using multi-view reconstruction and OpenSCAD.
 
+- [no-stairs-please-mcp](https://nostairsplease.com/mcp) - Read-only MCP server providing live-music stage, room, and booking contact data across all 50 US states ([nostairsplease.com](https://nostairsplease.com/)).
+
 ## Clients
 
 - [robot-mcp-client](https://github.com/robotmcp/robot-mcp-client) - Connect AI models like Claude & GPT with robots using MCP and ROS.
